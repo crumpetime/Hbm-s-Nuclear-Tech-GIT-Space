@@ -1259,6 +1259,7 @@ public class ModItems {
 	public static ItemRBMKPellet rbmk_pellet_lecf;
 	public static ItemRBMKPellet rbmk_pellet_mecf;
 	public static ItemRBMKPellet rbmk_pellet_hecf;
+	public static ItemRBMKPellet rbmk_pellet_cf252;
 
 	public static Item watz_pellet;
 	public static Item watz_pellet_depleted;
